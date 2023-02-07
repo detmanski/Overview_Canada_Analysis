@@ -1,0 +1,50 @@
+﻿"Inventory of publicly owned social and affordable housing assets, Infrastructure Canada 1 2 3"
+"Frequency: Occasional"
+"Table: 46-10-0001-01"
+"Release date: 2022-09-27"
+"Geography: Province or territory"
+""
+""
+
+,"2020",,,,,,
+"Type of social and affordable housing assets ","Total, structures","Single detached house, structures 4","Semi-detached house, structures 5","Row house, structures 6","Apartment building (fewer than five storeys), structures 7","Apartment building (five or more storeys), structures 8","Total, units within structures"
+"Geography"
+,"Number",,,,,,
+"Canada 2","39,309A","14,125A","10,671A","8,971A","3,171A","2,372A","312,523A"
+"Newfoundland and Labrador ","2,159A","806A","800A","526A","26A","1A","6,107A"
+"Prince Edward Island ","226A","61A","51A","71A","43A","0A","1,619A"
+"Nova Scotia ","2,327A","1,079A","672A","312A","250A","14A","11,250A"
+"New Brunswick ","1,572A","943A","270A","206A","148A","5A","4,595A"
+"Quebec ","4,133A","1,027A","915C","371A","227D","1,594A","47,200A"
+"Ontario","8,815A","1,638A","2,106A","3,767B","822A","483A","133,549A"
+"Manitoba","3,116A","859A","871A","1,198A","139A","49A","16,561A"
+"Saskatchewan","4,795A","1,937A","1,902A","491A","391A","74A","17,982A"
+"Alberta","5,937A","2,039A","2,212A","1,051A","553A","83A","38,679A"
+"British Columbia","1,829B","486A","14D","811C","449A","69B","26,252A"
+"Yukon","496A","324A","121A","45A","6A","0A","890A"
+"Northwest Territories","1,342A","876A","327A","122A","17A","0A","2,400A"
+"Nunavut","2,562A","2,050A","411A","0A","101A","0A","5,438A"
+
+Symbol legend:
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+
+
+Footnotes:
+1,"Figures may not add to totals due to rounding."
+2,"For 2016 public social and affordable housing estimates for Canada were produced excluding Quebec."
+3,"Due to changes in methodology and improved data availability, the inventory counts are not comparable between years. Inventory counts for the year 2018 for municipalities may be overestimated. Census subdivisions, including unorganized and unincorporated areas, were included in the survey frame whereas only incorporated organizations were included for 2020."
+4,"Single-detached house: A single dwelling not attached to any other dwelling or structure (except its own garage or shed). A single-detached house has open space on all sides, and has no dwellings either above it or below it. A mobile home fixed permanently to a foundation is also classified as a single-detached house."
+5,"Semi-detached house: One of two dwellings attached side by side (or back to back) to each other, but not attached to any other dwelling or structure (except its own garage or shed). The two units together have open space on all sides. Please include duplex and triplex housing."
+6,"Row house: One of three or more dwellings joined side by side (or occasionally side to back), such as a townhouse or garden home, but not having any other dwellings either above or below. Townhouses attached to a high-rise building are also classified as row houses. A set of row houses represents one structure."
+7,"Apartment building (fewer than five storeys): A high-rise apartment building which has five or more storeys."
+8,"Apartment building (five or more storeys): A building that has fewer than five storeys."
+
+
+
+"How to cite: Statistics Canada. Table 46-10-0001-01  Inventory of publicly owned social and affordable housing assets, Infrastructure Canada"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610000101
