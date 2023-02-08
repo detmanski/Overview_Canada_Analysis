@@ -42,6 +42,9 @@ htmlcov/
 .tox/
 .nox/
 .coverage
+
+# Adding config.py file.
+api_keys.py
 .coverage.*
 .cache
 nosetests.xml
