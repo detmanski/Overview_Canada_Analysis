@@ -1,0 +1,24 @@
+City_ID2,City_ID2,REF_DATE,City,Statistics,VALUE
+0,18372,2021,St. John's,Crime severity index,67.86
+1,18426,2021,Halifax,Crime severity index,65.72
+2,18534,2021,Québec,Crime severity index,42.61
+3,18552,2021,Sherbrooke,Crime severity index,50.88
+4,18588,2021,Montréal,Crime severity index,55.93
+5,18606,2021,Ottawa - Gatineau (Quebec part),Crime severity index,49.57
+6,18660,2021,Ottawa - Gatineau (Ontario part),Crime severity index,49.25
+7,18732,2021,Toronto,Crime severity index,45.45
+8,18750,2021,Hamilton,Crime severity index,56.85
+9,18768,2021,St. Catharines - Niagara,Crime severity index,62.12
+10,18786,2021,Kitchener - Cambridge - Waterloo,Crime severity index,79.39
+11,18840,2021,London,Crime severity index,80.09
+12,18858,2021,Windsor,Crime severity index,74.84
+13,18876,2021,Barrie,Crime severity index,45.91
+14,18948,2021,Winnipeg,Crime severity index,113.55
+15,18984,2021,Regina,Crime severity index,110.93
+16,19002,2021,Saskatoon,Crime severity index,105.97
+17,19056,2021,Calgary,Crime severity index,72.27
+18,19074,2021,Edmonton,Crime severity index,97.45
+19,19110,2021,Kelowna,Crime severity index,122.29
+20,19128,2021,Abbotsford - Mission,Crime severity index,78.24
+21,19146,2021,Vancouver,Crime severity index,81.64
+22,19164,2021,Victoria,Crime severity index,71.45
