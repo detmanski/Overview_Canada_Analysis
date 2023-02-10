@@ -1,16 +1,16 @@
-City_ID2,City_ID2,REF_DATE,City,Statistics,VALUE
-0,18426,2021,Halifax,Crime severity index,65.72
-1,18534,2021,Québec,Crime severity index,42.61
-2,18588,2021,Montréal,Crime severity index,55.93
-3,18606,2021,Ottawa - Gatineau (Quebec part),Crime severity index,49.57
-4,18660,2021,Ottawa - Gatineau (Ontario part),Crime severity index,49.25
-5,18732,2021,Toronto,Crime severity index,45.45
-6,18750,2021,Hamilton,Crime severity index,56.85
-7,18768,2021,St. Catharines - Niagara,Crime severity index,62.12
-8,18786,2021,Kitchener - Cambridge - Waterloo,Crime severity index,79.39
-9,18840,2021,London,Crime severity index,80.09
-10,18858,2021,Windsor,Crime severity index,74.84
-11,18948,2021,Winnipeg,Crime severity index,113.55
-12,19056,2021,Calgary,Crime severity index,72.27
-13,19074,2021,Edmonton,Crime severity index,97.45
-14,19146,2021,Vancouver,Crime severity index,81.64
+City_ID2,City_ID2,City,Crime Severity Index Value in 2021
+0,18426,Halifax,65.72
+1,18534,Québec,42.61
+2,18588,Montréal,55.93
+3,18606,Ottawa - Gatineau (Quebec part),49.57
+4,18660,Ottawa - Gatineau (Ontario part),49.25
+5,18732,Toronto,45.45
+6,18750,Hamilton,56.85
+7,18768,St. Catharines - Niagara,62.12
+8,18786,Kitchener - Cambridge - Waterloo,79.39
+9,18840,London,80.09
+10,18858,Windsor,74.84
+11,18948,Winnipeg,113.55
+12,19056,Calgary,72.27
+13,19074,Edmonton,97.45
+14,19146,Vancouver,81.64
