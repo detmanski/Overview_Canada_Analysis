@@ -1,26 +1,16 @@
 City_ID,City,City_ID2,GEO,Province,City_IDWeather,Weather_City
-0,St. John's,18372,St. John's, Newfoundland and Labrador [10001],0,St. John's
-1,Halifax,18426,Halifax, Nova Scotia [12205],1,Halifax
-2,Québec,18534,Québec, Quebec [24421],2,Québec
-3,Sherbrooke,18552,Sherbrooke, Quebec [24433],3,Sherbrooke
-4,Montréal,18588,Montréal, Quebec [24462],4,Montréal
-5,Ottawa - Gatineau,18642,Ottawa-Gatineau, Ontario/Quebec [24505/35505],#N/A,#N/A
-6,Ottawa - Gatineau (Quebec part),18606,Ottawa-Gatineau, Quebec part [24505],6,Gatineau
-7,Ottawa - Gatineau (Ontario part),18660,Ottawa-Gatineau, Ontario part [35505],5,Ottawa
-8,Oshawa,#N/A,#N/A,#N/A,7,Oshawa
-9,Toronto,18732,Toronto, Ontario [35535],8,Toronto
-10,Hamilton,18750,Hamilton, Ontario [35537],9,Hamilton
-11,St. Catharines - Niagara,18768,St.Catharines-Niagara, Ontario [35539],10,St. Catharines
-12,Kitchener - Cambridge - Waterloo,18786,Kitchener-Cambridge-Waterloo, Ontario [35541],11,Kitchener
-13,London,18840,London, Ontario [35555],12,London
-14,Windsor,18858,Windsor, Ontario [35559],13,Windsor
-15,Barrie,18876,Barrie, Ontario [35568],14,Barrie
-16,Winnipeg,18948,Winnipeg, Manitoba [46602],15,Winnipeg
-17,Regina,18984,Regina, Saskatchewan [47705],16,Regina
-18,Saskatoon,19002,Saskatoon, Saskatchewan [47725],17,Saskatoon
-19,Calgary,19056,Calgary, Alberta [48825],18,Calgary
-20,Edmonton,19074,Edmonton, Alberta [48835],19,Edmonton
-21,Kelowna,19110,Kelowna, British Columbia [59915],20,Kelowna
-22,Abbotsford - Mission,19128,Abbotsford-Mission, British Columbia [59932],21,Abbotsford
-23,Vancouver,19146,Vancouver, British Columbia [59933],22,Vancouver
-24,Victoria,19164,Victoria, British Columbia [59935],23,Victoria
+0,Halifax,18426,Halifax, Nova Scotia [12205],0,Halifax
+1,Québec,18534,Québec, Quebec [24421],1,Québec
+2,Montréal,18588,Montréal, Quebec [24462],2,Montréal
+3,Ottawa - Gatineau (Quebec part),18606,Ottawa-Gatineau, Quebec part [24505],4,Gatineau
+4,Ottawa - Gatineau (Ontario part),18660,Ottawa-Gatineau, Ontario part [35505],3,Ottawa
+5,Toronto,18732,Toronto, Ontario [35535],5,Toronto
+6,Hamilton,18750,Hamilton, Ontario [35537],6,Hamilton
+7,St. Catharines - Niagara,18768,St.Catharines-Niagara, Ontario [35539],7,St. Catharines
+8,Kitchener - Cambridge - Waterloo,18786,Kitchener-Cambridge-Waterloo, Ontario [35541],8,Kitchener
+9,London,18840,London, Ontario [35555],9,London
+10,Windsor,18858,Windsor, Ontario [35559],10,Windsor
+11,Winnipeg,18948,Winnipeg, Manitoba [46602],11,Winnipeg
+12,Calgary,19056,Calgary, Alberta [48825],12,Calgary
+13,Edmonton,19074,Edmonton, Alberta [48835],13,Edmonton
+14,Vancouver,19146,Vancouver, British Columbia [59933],14,Vancouver
