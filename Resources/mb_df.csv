@@ -1,19 +1,19 @@
-,Province,Cultural activities,Estimates,Type,Count,Scale,SCALAR_ID
-0,Manitoba,Making music,Number of persons,Persons,181.0,thousands,3
-1,Manitoba,Making music,Percentage of persons,Percent,17.2,units,0
-2,Manitoba,Theatre,Number of persons,Persons,0.0,thousands,3
-3,Manitoba,Theatre,Percentage of persons,Percent,0.0,units,0
-4,Manitoba,Audio-visual and interactive media,Number of persons,Persons,0.0,thousands,3
-5,Manitoba,Audio-visual and interactive media,Percentage of persons,Percent,0.0,units,0
-6,Manitoba,Dancing,Number of persons,Persons,78.0,thousands,3
-7,Manitoba,Dancing,Percentage of persons,Percent,7.4,units,0
-8,Manitoba,Visual arts,Number of persons,Persons,120.0,thousands,3
-9,Manitoba,Visual arts,Percentage of persons,Percent,11.4,units,0
-10,Manitoba,Crafting,Number of persons,Persons,197.0,thousands,3
-11,Manitoba,Crafting,Percentage of persons,Percent,18.6,units,0
-12,Manitoba,Writing,Number of persons,Persons,93.0,thousands,3
-13,Manitoba,Writing,Percentage of persons,Percent,8.8,units,0
-14,Manitoba,Other cultural activities,Number of persons,Persons,68.0,thousands,3
-15,Manitoba,Other cultural activities,Percentage of persons,Percent,6.4,units,0
-16,Manitoba,Did not participate in cultural activities,Number of persons,Persons,500.0,thousands,3
-17,Manitoba,Did not participate in cultural activities,Percentage of persons,Percent,47.3,units,0
+,Province,Cultural activities,Estimates,Type,Count,Scale,City
+0,Manitoba,Making music,Number of persons,Persons,181.0,thousands,Winnipeg
+1,Manitoba,Making music,Percentage of persons,Percent,17.2,units,Winnipeg
+2,Manitoba,Theatre,Number of persons,Persons,0.0,thousands,Winnipeg
+3,Manitoba,Theatre,Percentage of persons,Percent,0.0,units,Winnipeg
+4,Manitoba,Audio-visual and interactive media,Number of persons,Persons,0.0,thousands,Winnipeg
+5,Manitoba,Audio-visual and interactive media,Percentage of persons,Percent,0.0,units,Winnipeg
+6,Manitoba,Dancing,Number of persons,Persons,78.0,thousands,Winnipeg
+7,Manitoba,Dancing,Percentage of persons,Percent,7.4,units,Winnipeg
+8,Manitoba,Visual arts,Number of persons,Persons,120.0,thousands,Winnipeg
+9,Manitoba,Visual arts,Percentage of persons,Percent,11.4,units,Winnipeg
+10,Manitoba,Crafting,Number of persons,Persons,197.0,thousands,Winnipeg
+11,Manitoba,Crafting,Percentage of persons,Percent,18.6,units,Winnipeg
+12,Manitoba,Writing,Number of persons,Persons,93.0,thousands,Winnipeg
+13,Manitoba,Writing,Percentage of persons,Percent,8.8,units,Winnipeg
+14,Manitoba,Other cultural activities,Number of persons,Persons,68.0,thousands,Winnipeg
+15,Manitoba,Other cultural activities,Percentage of persons,Percent,6.4,units,Winnipeg
+16,Manitoba,Did not participate in cultural activities,Number of persons,Persons,500.0,thousands,Winnipeg
+17,Manitoba,Did not participate in cultural activities,Percentage of persons,Percent,47.3,units,Winnipeg

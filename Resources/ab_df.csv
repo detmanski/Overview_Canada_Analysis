@@ -1,19 +1,19 @@
-,Province,Cultural activities,Estimates,Type,Count,Scale
-0,Alberta,Making music,Number of persons,Persons,427.0,thousands
-1,Alberta,Making music,Percentage of persons,Percent,12.3,units
-2,Alberta,Theatre,Number of persons,Persons,0.0,thousands
-3,Alberta,Theatre,Percentage of persons,Percent,0.0,units
-4,Alberta,Audio-visual and interactive media,Number of persons,Persons,140.0,thousands
-5,Alberta,Audio-visual and interactive media,Percentage of persons,Percent,4.0,units
-6,Alberta,Dancing,Number of persons,Persons,353.0,thousands
-7,Alberta,Dancing,Percentage of persons,Percent,10.2,units
-8,Alberta,Visual arts,Number of persons,Persons,467.0,thousands
-9,Alberta,Visual arts,Percentage of persons,Percent,13.5,units
-10,Alberta,Crafting,Number of persons,Persons,667.0,thousands
-11,Alberta,Crafting,Percentage of persons,Percent,19.3,units
-12,Alberta,Writing,Number of persons,Persons,404.0,thousands
-13,Alberta,Writing,Percentage of persons,Percent,11.7,units
-14,Alberta,Other cultural activities,Number of persons,Persons,144.0,thousands
-15,Alberta,Other cultural activities,Percentage of persons,Percent,4.2,units
-16,Alberta,Did not participate in cultural activities,Number of persons,Persons,1653.0,thousands
-17,Alberta,Did not participate in cultural activities,Percentage of persons,Percent,47.8,units
+,Province,Cultural activities,Estimates,Type,Count,Scale,City,City 2
+0,Alberta,Making music,Number of persons,Persons,427.0,thousands,Calgary,Edmonton
+1,Alberta,Making music,Percentage of persons,Percent,12.3,units,Calgary,Edmonton
+2,Alberta,Theatre,Number of persons,Persons,0.0,thousands,Calgary,Edmonton
+3,Alberta,Theatre,Percentage of persons,Percent,0.0,units,Calgary,Edmonton
+4,Alberta,Audio-visual and interactive media,Number of persons,Persons,140.0,thousands,Calgary,Edmonton
+5,Alberta,Audio-visual and interactive media,Percentage of persons,Percent,4.0,units,Calgary,Edmonton
+6,Alberta,Dancing,Number of persons,Persons,353.0,thousands,Calgary,Edmonton
+7,Alberta,Dancing,Percentage of persons,Percent,10.2,units,Calgary,Edmonton
+8,Alberta,Visual arts,Number of persons,Persons,467.0,thousands,Calgary,Edmonton
+9,Alberta,Visual arts,Percentage of persons,Percent,13.5,units,Calgary,Edmonton
+10,Alberta,Crafting,Number of persons,Persons,667.0,thousands,Calgary,Edmonton
+11,Alberta,Crafting,Percentage of persons,Percent,19.3,units,Calgary,Edmonton
+12,Alberta,Writing,Number of persons,Persons,404.0,thousands,Calgary,Edmonton
+13,Alberta,Writing,Percentage of persons,Percent,11.7,units,Calgary,Edmonton
+14,Alberta,Other cultural activities,Number of persons,Persons,144.0,thousands,Calgary,Edmonton
+15,Alberta,Other cultural activities,Percentage of persons,Percent,4.2,units,Calgary,Edmonton
+16,Alberta,Did not participate in cultural activities,Number of persons,Persons,1653.0,thousands,Calgary,Edmonton
+17,Alberta,Did not participate in cultural activities,Percentage of persons,Percent,47.8,units,Calgary,Edmonton
