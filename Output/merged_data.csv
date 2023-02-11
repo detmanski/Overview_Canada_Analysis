@@ -1,16 +1,16 @@
-,GEO,City_y,Crime Severity Index Value in 2021,Median Income,Wind Speed,Max Temp
-0,Halifax,Halifax,65.72,38400.0,3.09,-1.0
-1,Québec,Québec,42.61,41600.0,11.32,-1.0699999999999932
-2,Montréal,Montréal,55.93,36400.0,5.14,4.080000000000041
-3,Ottawa - Gatineau,Gatineau,49.57,46400.0,3.09,1.6200000000000043
-4,Ottawa - Gatineau (Ontario part),Ottawa,49.25,47200.0,3.09,1.4800000000000182
-5,Toronto,Toronto,45.45,38800.0,10.8,6.220000000000027
-6,Hamilton,Hamilton,56.85,39600.0,12.86,5.100000000000023
-7,St. Catharines - Niagara,St. Catharines,62.12,29400.0,10.8,5.840000000000032
-8,Kitchener - Cambridge - Waterloo,Kitchener,79.39,40400.0,10.29,3.57000000000005
-9,London,London,80.09,35600.0,9.26,4.180000000000007
-10,Windsor,Windsor,74.84,32800.0,9.26,4.180000000000007
-11,Winnipeg,Winnipeg,113.55,37200.0,2.57,-12.009999999999993
-12,Calgary,Calgary,72.27,42800.0,5.66,3.200000000000045
-13,Edmonton,Edmonton,97.45,44000.0,2.06,1.25
-14,Vancouver,Vancouver,81.64,39600.0,7.2,9.860000000000014
+,GEO,City_y,Crime Severity Index Value in 2021,Median Income,Wind Speed,Max Temp,Median monthly shelter costs for owned dwellings ($),Average monthly shelter costs for owned dwellings ($),Median monthly shelter costs for rented dwellings ($),Average monthly shelter costs for rented dwellings ($),Employment Rate (%)
+0,Halifax,Halifax,65.72,38400.0,3.09,-1.0,1270.0,1370.0,1170.0,1247.0,58.0
+1,Québec,Québec,42.61,41600.0,11.32,-1.0699999999999932,1140.0,1201.0,830.0,905.0,62.0
+2,Montréal,Montréal,55.93,36400.0,5.14,4.080000000000041,1310.0,1420.0,880.0,981.0,60.7
+3,Ottawa - Gatineau,Gatineau,49.57,46400.0,3.09,1.6200000000000043,1440.0,1562.0,1230.0,1296.0,59.6
+4,Ottawa - Gatineau (Ontario part),Ottawa,49.25,47200.0,3.09,1.4800000000000182,1550.0,1648.0,1370.0,1412.0,59.2
+5,Toronto,Toronto,45.45,38800.0,10.8,6.220000000000027,1900.0,2108.0,1540.0,1618.0,56.1
+6,Hamilton,Hamilton,56.85,39600.0,12.86,5.100000000000023,1500.0,1690.0,1210.0,1328.0,55.3
+7,St. Catharines - Niagara,St. Catharines,62.12,29400.0,10.8,5.840000000000032,1130.0,1336.0,1080.0,1172.0,48.6
+8,Kitchener - Cambridge - Waterloo,Kitchener,79.39,40400.0,10.29,3.57000000000005,1540.0,1612.0,1300.0,1352.0,59.2
+9,London,London,80.09,35600.0,9.26,4.180000000000007,1240.0,1412.0,1110.0,1198.0,54.4
+10,Windsor,Windsor,74.84,32800.0,9.26,4.180000000000007,1070.0,1262.0,980.0,1069.0,49.5
+11,Winnipeg,Winnipeg,113.55,37200.0,2.57,-12.009999999999993,1250.0,1342.0,1100.0,1140.0,60.3
+12,Calgary,Calgary,72.27,42800.0,5.66,3.200000000000045,1740.0,1802.0,1350.0,1416.0,60.8
+13,Edmonton,Edmonton,97.45,44000.0,2.06,1.25,1700.0,1720.0,1290.0,1330.0,60.0
+14,Vancouver,Vancouver,81.64,39600.0,7.2,9.860000000000014,1620.0,1980.0,1500.0,1624.0,60.0
