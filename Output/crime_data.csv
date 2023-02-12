@@ -1,16 +1,16 @@
-City_ID2,City_ID2,City,Crime Severity Index Value in 2021
-0,18426,Halifax,65.72
-1,18534,Québec,42.61
-2,18588,Montréal,55.93
-3,18606,Ottawa - Gatineau (Quebec part),49.57
-4,18660,Ottawa - Gatineau (Ontario part),49.25
-5,18732,Toronto,45.45
-6,18750,Hamilton,56.85
-7,18768,St. Catharines - Niagara,62.12
-8,18786,Kitchener - Cambridge - Waterloo,79.39
-9,18840,London,80.09
-10,18858,Windsor,74.84
-11,18948,Winnipeg,113.55
-12,19056,Calgary,72.27
-13,19074,Edmonton,97.45
-14,19146,Vancouver,81.64
+GEO_NAME,Crime Severity Index Value in 2021
+Halifax,65.72
+Québec,42.61
+Montréal,55.93
+Ottawa - Gatineau,49.57
+Ottawa - Gatineau (Ontario part),49.25
+Toronto,45.45
+Hamilton,56.85
+St. Catharines - Niagara,62.12
+Kitchener - Cambridge - Waterloo,79.39
+London,80.09
+Windsor,74.84
+Winnipeg,113.55
+Calgary,72.27
+Edmonton,97.45
+Vancouver,81.64
