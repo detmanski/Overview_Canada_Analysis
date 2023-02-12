@@ -1,16 +1,16 @@
-City_ID,City,City_ID2,GEO,Province,City_IDWeather,Weather_City
-0,Halifax,18426,Halifax, Nova Scotia [12205],0,Halifax
-1,Québec,18534,Québec, Quebec [24421],1,Québec
-2,Montréal,18588,Montréal, Quebec [24462],2,Montréal
-3,Ottawa - Gatineau (Quebec part),18606,Ottawa-Gatineau, Quebec part [24505],4,Gatineau
-4,Ottawa - Gatineau (Ontario part),18660,Ottawa-Gatineau, Ontario part [35505],3,Ottawa
-5,Toronto,18732,Toronto, Ontario [35535],5,Toronto
-6,Hamilton,18750,Hamilton, Ontario [35537],6,Hamilton
-7,St. Catharines - Niagara,18768,St.Catharines-Niagara, Ontario [35539],7,St. Catharines
-8,Kitchener - Cambridge - Waterloo,18786,Kitchener-Cambridge-Waterloo, Ontario [35541],8,Kitchener
-9,London,18840,London, Ontario [35555],9,London
-10,Windsor,18858,Windsor, Ontario [35559],10,Windsor
-11,Winnipeg,18948,Winnipeg, Manitoba [46602],11,Winnipeg
-12,Calgary,19056,Calgary, Alberta [48825],12,Calgary
-13,Edmonton,19074,Edmonton, Alberta [48835],13,Edmonton
-14,Vancouver,19146,Vancouver, British Columbia [59933],14,Vancouver
+GEO,CrimeCityID,GEO_NAME,Province,Weather_City,Name
+Halifax,18426,Halifax, Nova Scotia [12205],Halifax,Halifax
+Québec,18534,Québec, Quebec [24421],Québec,Québec
+Montréal,18588,Montréal, Quebec [24462],Montréal,Montréal
+Ottawa - Gatineau (Quebec part),18606,Ottawa - Gatineau, Quebec part [24505],Gatineau,Gatineau
+Ottawa - Gatineau (Ontario part),18660,Ottawa - Gatineau (Ontario part), Ontario part [35505],Ottawa,Ottawa
+Toronto,18732,Toronto, Ontario [35535],Toronto,Toronto
+Hamilton,18750,Hamilton, Ontario [35537],Hamilton,Hamilton
+St. Catharines - Niagara,18768,St. Catharines - Niagara, Ontario [35539],St. Catharines,St. Catherines
+Kitchener - Cambridge - Waterloo,18786,Kitchener - Cambridge - Waterloo, Ontario [35541],Kitchener,Kitchener
+London,18840,London, Ontario [35555],London,London
+Windsor,18858,Windsor, Ontario [35559],Windsor,Windsor
+Winnipeg,18948,Winnipeg, Manitoba [46602],Winnipeg,Winnipeg
+Calgary,19056,Calgary, Alberta [48825],Calgary,Calgary
+Edmonton,19074,Edmonton, Alberta [48835],Edmonton,Edmonton
+Vancouver,19146,Vancouver, British Columbia [59933],Vancouver,Vancouver
