@@ -1,16 +1,16 @@
-City,Median Income
-Halifax,38400.0
-Québec,41600.0
-Montréal,36400.0
-Ottawa - Gatineau,46400.0
-Ottawa - Gatineau (Ontario part),47200.0
-Toronto,38800.0
-Hamilton,39600.0
-St. Catharines - Niagara,29400.0
-Kitchener - Cambridge - Waterloo,40400.0
-London,35600.0
-Windsor,32800.0
-Winnipeg,37200.0
-Calgary,42800.0
-Edmonton,44000.0
-Vancouver,39600.0
+GEO_NAME,Median Income,Rank
+Ottawa - Gatineau (Ontario part),47200.0,6
+Ottawa - Gatineau,46400.0,7
+Edmonton,44000.0,18
+Calgary,42800.0,23
+Québec,41600.0,30
+Kitchener - Cambridge - Waterloo,40400.0,35
+Hamilton,39600.0,44
+Vancouver,39600.0,45
+Toronto,38800.0,50
+Halifax,38400.0,56
+Winnipeg,37200.0,65
+Montréal,36400.0,75
+London,35600.0,87
+Windsor,32800.0,118
+St. Catharines - Niagara,29400.0,148
