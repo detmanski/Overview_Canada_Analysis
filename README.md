@@ -24,7 +24,7 @@ If you were to choose a new city within Canada to live in, which city would you 
 
 <span style="text-decoration:underline;">Introduction:</span> 
 
-With the massive influx of immigrants and the ever changing conditions of the housing market … The big question we aim to answer is: Where are the most ideal cities within Canada to live?
+With the massive influx of immigrants and the ever changing conditions of the housing market, the big question we aim to answer is: Where are the most ideal cities within Canada to live?
 
 We first brainstormed what governs one’s decision of moving from one city to another and settled on a few factors - affordability in terms of shelter costs, population, weather, crime rate, cultural activities, employment prospects and income levels.
 
@@ -68,7 +68,7 @@ The analysis has been broken down into 6 sections pertaining to each sub-researc
     * A t-statistic of 3.37 and a significant p-value of 0.0023 was obtained for a 95% confidence interval. Hence the null hypothesis can be rejected, indicating that there in fact is a significant difference between renting costs and owning costs across the 15 cities where the mean monthly cost of owning a house ($1564.33) is greater than the cost of renting a house ($1272.53), with a difference of $291.8 between both.
 3. Which city has the highest employment rate? Is there a correlation between employment rate and median income?
     * The city with the highest employment rate is Québec with an employment rate of 62%
-    * To test the relationship between employment rate and median income, both variables were plotted against each other using a scatter plot. A linear regression determined that there is a significant and moderate positive correlation between employment rate and median income (p-value = 0.002 and r-value = 0.73). This implies that cities with higher employment rates are also likely to have higher median income. The regression equation highlights that with every one percent increase in the employment rate, the median income increases by $865.7
+    * To test the relationship between employment rate and median income, both variables were plotted against each other using a scatter plot. A linear regression determined that there is a significant and moderate positive correlation between employment rate and median income (p-value = 0.002 and r-value = 0.73). This implies that cities with higher employment rates are also likely to have higher median income. The regression equation highlights that with every one percent increase in the employment rate, the median income increases by $865.7. Hence, from analysis 2 and 3 we can conclude that Quebec City seems to be not only the most affordable city in terms of owning as well as renting a house, but also has the highest employment rate. This may be because of first language being French which a lot of people might not know and which might create a low housing demand and higher job vacancies. 
 4. Which city is most rich in cultural activities?
     * We first looked at the overall participation in cultural activities. We used overall participation as a metric to decide which area had the most community involved in cultural activities and where cultural activities were most readily available. The information was based by province, as the participation in cultural activities would not be based solely within one’s city (ie. One can travel within the province to participate). For consistency with the data we did break it down to the 15 cities on the bar graph ‘cities_overall_participation.png’, however the values are the same based on the province within. It’s also notable that the overall participation was measured by using 100 – “% that did not participate.”
     * We used the stacked bar graph ‘stacked_bar_culture.png’ to gain insight into the specific cultural activities available in each province. Crafting has the highest participation rate overall with music as a close second. In this way you could look at which form of culture is most important to you and choose where to live based on that availability. For example, the only province with notable Theatre activity was Ontario. Nova Scotia has overall the highest participation in cultural activities and Quebec has the lowest. If participation or exposure to cultural activities is important to you then within our 15 cities, Halifax would be the most ideal and Quebec City or Montreal the least.
@@ -91,9 +91,9 @@ Summary of project findings:
 * Highest participation in cultural activities - Halifax
 * Highest median income - Ottawa
 
-This information can be highly relevant to anyone moving to Canada or relocating to a different city within Canada and who has similar considerations in mind. This data can help individuals know what to expect from each of the 15 cities
+This information can be highly relevant to anyone moving to Canada or relocating to a different city within Canada and who has similar considerations in mind. This data can help individuals know what to expect from each of the 15 cities. 
 
-The small sample size of 15 cities is one of the limitations of this project. There were certain other factors that weren’t incorporated into the analysis since the scope of this project was such for example health services, demographics, taxes, education availability, ease of transportation etc.
+The small sample size of 15 cities is one of the limitations of this project. There were certain other factors that weren’t incorporated into the analysis since the scope of this project was such for example health services, demographics, taxes, education availability, ease of transportation etc and can be considered for future projects. Yearly weather data can also be examined as opposed to single-day weather information. 
 
 Resources:
 
